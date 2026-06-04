@@ -42,8 +42,9 @@ The trained model weight files (`best.pt` and `last.pt`) are not included in thi
 
 ## FastAPI Application
 
+[FastAPI Output](assets/fastapi_window.png)
+[FastAPI Output](assets/fastapi_result.png)
 
-![FastAPI Output](assets/fastapi_result.png)
 
 ## Installation
 
