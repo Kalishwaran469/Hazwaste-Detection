@@ -40,6 +40,10 @@ The trained model successfully detects hazardous waste objects from input images
 
 The trained model weight files (`best.pt` and `last.pt`) are not included in this repository because they exceed GitHub's file size limitations. Model weights can be shared separately upon request.
 
+## FastAPI Application
+
+![FastAPI Output](assets/fastapi_result.png)
+
 ## Installation
 
 ```bash
