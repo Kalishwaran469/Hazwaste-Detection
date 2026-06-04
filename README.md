@@ -47,7 +47,7 @@ The trained YOLOv9 model successfully detects hazardous industrial waste objects
 
 #### Shock Absorber Detection
 
-![Shock Absorber Detection](assets/shock absorber.jpg)
+![Shock Absorber Detection](assets/shock_absorber.jpg)
 
 ## Model Weights
 
