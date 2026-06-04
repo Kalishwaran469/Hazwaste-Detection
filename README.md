@@ -1,4 +1,4 @@
-# Hazardous Waste Detection System using YOLOv9 and FastAPI
+# HazWaste Detection System using YOLOv9 and FastAPI
 
 ## Overview
 
