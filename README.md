@@ -60,6 +60,17 @@ pip install -r requirements.txt
 4. Upload an image for prediction.
 5. View detected hazardous waste objects and confidence scores.
 
+## Skills Demonstrated
+
+- Deep Learning
+- Computer Vision
+- Object Detection
+- YOLOv9
+- FastAPI
+- PyTorch
+- Dataset Annotation
+- Model Deployment
+
 ## Project Highlights
 
 * Independently completed the full project lifecycle from data annotation to deployment.
